@@ -1,0 +1,176 @@
+{
+  "sessions": [
+    {
+      "id": "1938384946:1938384946",
+      "data": {
+        "language": "uz",
+        "filial": "Ishtixon tumani",
+        "__scenes": {},
+        "location": {
+          "lat": 39.96547438587122,
+          "lon": 66.48605461535415,
+          "address": "Ishtixon tumani, Alisher Navoiy ko‘chasi, 26",
+          "landmark": "Ishtixon tuman markazida"
+        }
+      }
+    },
+    {
+      "id": "7665105184:7665105184",
+      "data": {
+        "language": "uz",
+        "__scenes": {},
+        "filial": "Kattaqo'rg'on shahri",
+        "location": {
+          "lat": 39.892333200330526,
+          "lon": 66.26725155133246,
+          "address": "Kattaqo'rg'on shahri, O'rikzor mahallasi, Ulug'bek Barnoyev shoh ko'chasi, 54-uy",
+          "landmark": "Kirpichniy chorraxasida"
+        }
+      }
+    },
+    {
+      "id": "5753688363:5753688363",
+      "data": {
+        "language": "uz",
+        "__scenes": {},
+        "filial": "Mitan shahri",
+        "location": "https://maps.apple.com/maps?ll=40.0081026689143,66.5489255793072&q=40.0081026689143,66.5489255793072&t=m"
+      }
+    },
+    {
+      "id": "7555796133:7555796133",
+      "data": {
+        "language": "uz",
+        "filial": "Chelak shahri",
+        "location": "https://maps.apple.com/maps?ll=39.9132549934573,66.8610867919285&q=39.9132549934573,66.8610867919285&t=m",
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "5749891668:5749891668",
+      "data": {
+        "language": "uz",
+        "filial": "Mitan shahri",
+        "location": "https://maps.apple.com/maps?ll=40.0081026689143,66.5489255793072&q=40.0081026689143,66.5489255793072&t=m",
+        "__scenes": {
+          "current": "ANKETA_SCENE",
+          "state": {
+            "data": {
+              "vakansiya": "Sotuvchi kassir",
+              "filial": "Mitan shahri",
+              "location": "https://maps.apple.com/maps?ll=40.0081026689143,66.5489255793072&q=40.0081026689143,66.5489255793072&t=m",
+              "fish": "Akbaralitev Jasur",
+              "phone": "998930487798"
+            }
+          },
+          "cursor": 3
+        }
+      }
+    },
+    {
+      "id": "7884955446:7884955446",
+      "data": {
+        "language": "uz",
+        "filial": "Ishtixon tumani",
+        "location": {
+          "lat": 39.96547438587122,
+          "lon": 66.48605461535415
+        },
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "6915945667:6915945667",
+      "data": {
+        "__scenes": {},
+        "language": "uz"
+      }
+    },
+    {
+      "id": "-1002758493531:1938384946",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "663672892:663672892",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "1943956951:1943956951",
+      "data": {
+        "language": "uz",
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "6544569046:6544569046",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "1092805683:1092805683",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "5505160131:5505160131",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "5550171120:5550171120",
+      "data": {
+        "language": "uz",
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "5646716003:5646716003",
+      "data": {
+        "filial": "Kattaqo'rg'on shahri",
+        "location": {
+          "lat": 39.892333200330526,
+          "lon": 66.26725155133246,
+          "address": "Kattaqo'rg'on shahri, O'rikzor mahallasi, Ulug'bek Barnoyev shoh ko'chasi, 54-uy",
+          "landmark": "Kirpichniy chorraxasida"
+        }
+      }
+    },
+    {
+      "id": "5579267360:5579267360",
+      "data": {
+        "language": "uz",
+        "filial": "Chelak shahri",
+        "location": {
+          "lat": 39.9132549934573,
+          "lon": 66.8610867919285,
+          "address": "Chelak shahri, Xo’jaobod MFY, Mashrab ko’chasi, 66A",
+          "landmark": "\"Fayz Osh\" markazi yonida"
+        },
+        "__scenes": {
+          "current": "ANKETA_SCENE",
+          "state": {
+            "data": {
+              "vakansiya": "Rasta sotuvchisi",
+              "filial": "Chelak shahri",
+              "location": {
+                "lat": 39.9132549934573,
+                "lon": 66.8610867919285,
+                "address": "Chelak shahri, Xo’jaobod MFY, Mashrab ko’chasi, 66A",
+                "landmark": "\"Fayz Osh\" markazi yonida"
+              },
+              "fish": "Rasta sotuvchisi"
+            }
+          },
+          "cursor": 2
+        }
+      }
+    }
+  ]
+}
