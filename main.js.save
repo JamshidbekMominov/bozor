@@ -1,7 +1,7 @@
 const { Telegraf, Markup, Scenes } = require("telegraf");
 const session = require("telegraf-session-local");
 
-const bot = new Telegraf("8131737610:AAGr9OfDwS0cq5eXvxq_FMyz4zDW7thwL-c");
+const bot = new Telegraf("8131737610:AAGdMy5AMsIsjVjmPjwiLhQJGcnwzchrqh8");
 
 // Kanal ID
 const CHANNEL_ID = "-1002758493531";
