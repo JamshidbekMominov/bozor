@@ -206,7 +206,7 @@ const anketaScene = new Scenes.WizardScene(
 
     ctx.reply(
       ctx.session.language === "uz"
-        ? "Telefon raqamini yuboring:\n<i> Sizga aloqaga chiqishimiz uchun muhim !!! </i> "
+        ? "Telefon raqamini yuboring:\n<i>Sizga aloqaga chiqishimiz uchun muhim</i>"
         : "Отправьте номер телефона:",
       Markup.keyboard([
         [Markup.button.contactRequest("📞 Telefon raqamini yuborish")],

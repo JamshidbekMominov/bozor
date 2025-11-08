@@ -5,7 +5,23 @@
       "data": {
         "language": "uz",
         "filial": "Ishtixon tumani",
-        "__scenes": {},
+        "__scenes": {
+          "current": "ANKETA_SCENE",
+          "state": {
+            "data": {
+              "vakansiya": "Sotuvchi kassir",
+              "filial": "Ishtixon tumani",
+              "location": {
+                "lat": 39.96547438587122,
+                "lon": 66.48605461535415,
+                "address": "Ishtixon tumani, Alisher Navoiy ko‘chasi, 26",
+                "landmark": "Ishtixon tuman markazida"
+              },
+              "fish": "mominoff"
+            }
+          },
+          "cursor": 2
+        },
         "location": {
           "lat": 39.96547438587122,
           "lon": 66.48605461535415,
@@ -170,6 +186,12 @@
           },
           "cursor": 2
         }
+      }
+    },
+    {
+      "id": "8422484871:8422484871",
+      "data": {
+        "__scenes": {}
       }
     }
   ]
