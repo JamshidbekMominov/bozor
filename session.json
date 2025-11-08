@@ -4,29 +4,13 @@
       "id": "1938384946:1938384946",
       "data": {
         "language": "uz",
-        "filial": "Ishtixon tumani",
-        "__scenes": {
-          "current": "ANKETA_SCENE",
-          "state": {
-            "data": {
-              "vakansiya": "Sotuvchi kassir",
-              "filial": "Ishtixon tumani",
-              "location": {
-                "lat": 39.96547438587122,
-                "lon": 66.48605461535415,
-                "address": "Ishtixon tumani, Alisher Navoiy ko‘chasi, 26",
-                "landmark": "Ishtixon tuman markazida"
-              },
-              "fish": "mominoff"
-            }
-          },
-          "cursor": 2
-        },
+        "filial": "Chelak shahri",
+        "__scenes": {},
         "location": {
-          "lat": 39.96547438587122,
-          "lon": 66.48605461535415,
-          "address": "Ishtixon tumani, Alisher Navoiy ko‘chasi, 26",
-          "landmark": "Ishtixon tuman markazida"
+          "lat": 39.9132549934573,
+          "lon": 66.8610867919285,
+          "address": "Chelak shahri, Xo’jaobod MFY, Mashrab ko’chasi, 66A",
+          "landmark": "\"Fayz Osh\" markazi yonida"
         }
       }
     },
@@ -191,6 +175,20 @@
     {
       "id": "8422484871:8422484871",
       "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "6213920544:6213920544",
+      "data": {
+        "language": "uz",
+        "filial": "Chelak shahri",
+        "location": {
+          "lat": 39.9132549934573,
+          "lon": 66.8610867919285,
+          "address": "Chelak shahri, Xo’jaobod MFY, Mashrab ko’chasi, 66A",
+          "landmark": "\"Fayz Osh\" markazi yonida"
+        },
         "__scenes": {}
       }
     }

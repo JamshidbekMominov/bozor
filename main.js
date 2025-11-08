@@ -9,7 +9,7 @@ const CHANNEL_ID = "-1002758493531";
 // Lokal session middleware-ni sozlash
 const localSession = new session({
   database: "session.json",
-});
+})
 bot.use(localSession.middleware());
 
 // const fs = require("fs");
